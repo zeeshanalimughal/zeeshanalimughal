@@ -15,7 +15,7 @@
 🛠️ My core tech stack includes JavaScript, TypeScript, Node.js, Nest.js, Express.js, React.js, Next.js MongoDB, MySql and more.  
 🎨 I specialize in responsive web design, ensuring applications look great and function seamlessly across all devices.   
 ⚡ I enjoy refining my development skills, experimenting with new frameworks, and enhancing user experiences.  
-📚 I’m learning advanced system design principles, CI/CD pipelines, DevOps workflows, and AWS cloud infrastructure to optimize development and deployment.  
+📚 I’m learning advanced system design principles, CI/CD pipelines, DevOps workflows, and AWS and Google cloud infrastructure to optimize development and deployment.  
 🚀 I’m passionate about crafting applications that solve real-world problems and boost productivity.  
 🌍 I’m eager to collaborate, learn, and grow in the ever-evolving field of software development.  
 🎯 My goal is to create innovative solutions that make a lasting impact on users.  
