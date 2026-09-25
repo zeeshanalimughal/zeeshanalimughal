@@ -9,7 +9,7 @@
 
 ###
 🔭 I’m a MERN Stack Developer building scalable and intuitive web applications.  
-💼 I have over 3 years of experience, delivering projects for diverse industries with high-quality outcomes.  
+💼 I have over 5 years of experience, delivering projects for diverse industries with high-quality outcomes.  
 🛠️ My core tech stack includes JavaScript, TypeScript, Node.js, Nest.js, Express.js, React.js, Next.js MongoDB, MySql and more.  
 🎨 I specialize in responsive web design, ensuring applications look great and function seamlessly across all devices.   
 ⚡ I enjoy refining my development skills, experimenting with new frameworks, and enhancing user experiences.  
