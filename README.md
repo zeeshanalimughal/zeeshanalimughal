@@ -23,9 +23,17 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshanalimughal&show_icons=true&locale=en&layout=compact" alt="zeeshanalimughal" /></p>
+<p>
+  <img align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshanalimughal&amp;show_icons=true&amp;locale=en&amp;layout=compact"
+    alt="Most used languages" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanalimughal&" alt="zeeshanalimughal" /></p>
+<p>
+  <img align="center"
+    src="https://streak-stats.demolab.com/?user=zeeshanalimughal&amp;timezone=Asia%2FKarachi&amp;v=20261022"
+    alt="GitHub contribution streak" />
+</p>
 
 ###
 
